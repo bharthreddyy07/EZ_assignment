@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './ContactForm.css';
+import './Contactform.css';
 
 const API_URL = 'https://vernanbackend.ezlab.in/api/contact-us/';
 
